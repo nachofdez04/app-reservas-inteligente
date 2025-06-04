@@ -24,8 +24,6 @@ Este proyecto es el Trabajo de Fin de Grado (TFG) de Nacho Fernández, una plata
 5. Accede desde tu navegador:  
    `http://localhost/app-reservas-inteligente/frontend/register.php`
 
-`![Login](./assets/capturas/login.png)`
-
 ---
 
 ## 🙋‍♂️ Autor
