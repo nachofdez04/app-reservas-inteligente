@@ -32,7 +32,7 @@ Este proyecto es el Trabajo de Fin de Grado (TFG) de Nacho Fernández, una plata
 
 **Nacho Fernández**  
 Desarrollador de Aplicaciones Web  
-[LinkedIn](https://www.linkedin.com/in/nacho-fernandez-fernandez-98b4b1208)
+[LinkedIn](https://www.linkedin.com/in/nacho-fernandez-al%C3%ADas-1812a232b/)
 
 ---
 
