@@ -9,14 +9,6 @@ Este proyecto es el Trabajo de Fin de Grado (TFG) de Nacho Fernández, una plata
 👉 Puedes probar la aplicación en:  
 [https://nacho.masterendaw.es/TFG/frontend/register.php](https://nacho.masterendaw.es/TFG/frontend/register.php)
 
----
-
-## 🛠️ Tecnologías utilizadas
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,vue,vuetify,jquery,php,laravel,mysql,npm,python,vscode,linux" />
-</p>
-
 
 ---
 
